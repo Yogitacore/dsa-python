@@ -14,3 +14,5 @@ This repository contains my daily Data Structures and Algorithms practice in Pyt
 - [ ] Two Sum
 - [ ] Running Sum of 1D Array
 - [ ] Richest Customer Wealth
+### Day 2 - Arrays
+- [x] Best Time to Buy and Sell Stock
